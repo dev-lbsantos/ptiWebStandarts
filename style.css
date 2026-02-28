@@ -127,12 +127,13 @@ footer {
         flex-direction: column;
         height: auto;
         padding: 10px;
+        position: static;
     }
     body {
-        padding-top: 120px;
+        padding-top: 0;
     }
     #apresentacao {
-        margin-top: 20px;
+        margin-top: 0;
     }
     .pacotes {
         flex-direction: column;
